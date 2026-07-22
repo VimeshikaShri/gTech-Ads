@@ -4,15 +4,15 @@ A portfolio-ready collection of five practical advertising measurement and optim
 
 ## Live portfolio
 
-[View the AdTech Portfolio](https://vimeshikashri.github.io/Ad-Tech-/) · [View project results](https://vimeshikashri.github.io/Ad-Tech-/results.html)
+**[View the AdTech Portfolio](https://vimeshikashri.github.io/Ad-Tech-/) | [View project results](https://vimeshikashri.github.io/Ad-Tech-/results.html)**
 
 ## Projects
 
-1. _**Google Ads Conversion Tracking**_ for consent aware purchase measurement.
-2. _**GA4 and Google Tag Manager**_ implementation for a scalable ecommerce event architecture.
-3. _**Looker Studio dashboard**_ for executive level marketing performance reporting.
-4. _**BigQuery marketing analytics**_ for channel attribution and cohort analysis.
-5. _**Google Ads API Budget Pacer**_ for daily budget monitoring and spending alerts.
+1. **Google Ads Conversion Tracking** for consent aware purchase measurement.
+2. **GA4 and Google Tag Manager** implementation for a scalable ecommerce event architecture.
+3. **Looker Studio dashboard** for executive level marketing performance reporting.
+4. **BigQuery marketing analytics** for channel attribution and cohort analysis.
+5. **Google Ads API Budget Pacer** for daily budget monitoring and spending alerts.
 
 ## Results at a glance
 
