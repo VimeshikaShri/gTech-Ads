@@ -4,7 +4,7 @@ A portfolio-ready collection of five practical advertising measurement and optim
 
 ## Live portfolio
 
-[View the AdTech Portfolio](https://vimeshikashri.github.io/gTech-Ads/) · [View project results](https://vimeshikashri.github.io/gTech-Ads/results.html)
+[View the AdTech Portfolio](https://vimeshikashri.github.io/Ad-Tech-/) · [View project results](https://vimeshikashri.github.io/Ad-Tech-/results.html)
 
 ## Projects
 
