@@ -8,9 +8,9 @@ A static portfolio site presenting five sample technical builds in digital adver
 
 ## **Why this project exists?**
 
-Marketing analytics hiring managers see a lot of "I know GA4 / SQL / Looker" resumes. This site is built to show the *thinking*, not just the tool list:
+This repository and sites are built to show the *thinking*, not just the tool list:
 
-- How a conversion event is defined, deduplicated, and validated, not just "I set up a Google Ads tag."
+- How a conversion event is defined, deduplicated, and validated, not just "Setting up a Google Ads tag."
 - How an event taxonomy is designed to survive beyond one campaign.
 - How a dashboard is built around a decision (weekly budget review), not around "whatever the connector gives you."
 - How SQL is used to reconcile session and purchase data at the identifier level, not just to run a `SUM()`.
