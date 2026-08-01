@@ -2,13 +2,11 @@
 
 A static portfolio site presenting five sample technical builds in digital advertising measurement: conversion tracking, GA4/GTM instrumentation, BI dashboarding, warehouse analytics (SQL), and marketing automation (Python). Built to demonstrate applied, end-to-end skill across the paid-media data stack, not just tool familiarity.
 
-## Live portfolio
+## **Live portfolio**
 
 **[View the AdTech Portfolio](https://vimeshikashri.github.io/gTech-Ads/) | [View project results](https://vimeshikashri.github.io/gTech-Ads/results.html)**
 
----
-
-## 1. Why this project exists
+## **Why this project exists?**
 
 Marketing analytics hiring managers see a lot of "I know GA4 / SQL / Looker" resumes. This site is built to show the *thinking*, not just the tool list:
 
@@ -22,7 +20,7 @@ Each of the five samples maps to one stage of the paid-media data lifecycle: **c
 
 ---
 
-## 2. Live structure
+## **Live Structure**
 
 ```
 .
@@ -41,7 +39,7 @@ No build step. No dependencies to install for the site itself, it is plain HTML/
 
 ---
 
-## 3. Tech stack
+## **Tech Stack**
 
 | Layer | Choice | Notes |
 |---|---|---|
@@ -55,7 +53,7 @@ No build step. No dependencies to install for the site itself, it is plain HTML/
 
 ---
 
-## 4. Page-by-page breakdown
+## **Page-by-page Breakdown**
 
 ### `index.html`
 - Hero section with a 3-item capability grid (Instrumentation / Analytics / Activation).
@@ -83,7 +81,7 @@ No build step. No dependencies to install for the site itself, it is plain HTML/
 
 ---
 
-## 5. The five samples — what each demonstrates
+## **The five samples (What each one demostrates?)**
 
 | # | File | Demonstrates | Key technical decision |
 |---|---|---|---|
@@ -99,7 +97,7 @@ These are written as **design/spec documents and reference code**, not screensho
 
 ---
 
-## 7. Running locally
+## **Running locally**
 
 Static site, no build tooling required:
 
@@ -113,6 +111,8 @@ Or open `index.html` directly in a browser (all asset paths are relative).
 
 ---
 
-## 8. Contact
+## **Contact**
 
-`vimeshika.balamurali@gmail.com`
+_**Vimeshika Shri**_
+- GitHub: [@VimeshikaShri](https://github.com/VimeshikaShri)
+- <small>Email: vimeshika.balamurali@gmail.com</small>
