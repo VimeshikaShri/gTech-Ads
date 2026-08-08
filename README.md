@@ -113,6 +113,4 @@ Or open `index.html` directly in a browser (all asset paths are relative).
 
 ## **Contact**
 
-_**Vimeshika Shri**_
-- GitHub: [@VimeshikaShri](https://github.com/VimeshikaShri)
-- <small>Email: vimeshika.balamurali@gmail.com</small>
+**<small>Vimeshika Shri : GitHub: [@VimeshikaShri](https://github.com/VimeshikaShri)</small>**
